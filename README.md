@@ -1,2 +1,2 @@
 # YazidanSeseCevirme
-take two numbers and sum them with python code
+Ekrana girilecek olan metni, Sese çevirme Gui uygulaması
